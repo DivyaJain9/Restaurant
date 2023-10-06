@@ -13,7 +13,7 @@ function loadMenu() {
   menuList[1].innerHTML = 'THE BIG PHILLY CHEESE STEAK';
   menuList[2].innerHTML = 'THE BIG CHEESE';
   menuList[3].innerHTML = 'THE BIG PEPPERONI';
-  menuList[4].innerHTML = 'THE BIG HAM & PINEAPPLE';
+  menuList[4].innerHTML = 'THE BIG CHICKEN & PINEAPPLE';
   menuList[5].innerHTML = 'THE BIG PEPPERONI, SAUSAGE & MUSHROOM';
   menuList[6].innerHTML = 'THE BIG THREE MEATS';
   menuList[7].innerHTML = 'REEF, STEAK & BACON';
